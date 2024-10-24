@@ -1,6 +1,6 @@
 # Description
 This is the first project of my [Introduction to Embedded Machine Learning course.](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
-This project using accelermeter with microcontroller to detect the motion of a fan machine.
+This project using accelerometer with microcontroller to detect the motion of a fan machine.
 # Hardware
 - Raspberry pi pico.
 - ADXL345.
